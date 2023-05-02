@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/1JRQDVR/chef1.jpg",
+        "name": "John Doe",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 10000
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/d2pBkFW/chef2.jpg",
+        "name": "Jane Smith",
+        "years_of_experience": 5,
+        "number_of_recipes": 20,
+        "likes": 5000
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/JycsRnF/chef3.jpg",
+        "name": "Bob Johnson",
+        "years_of_experience": 3,
+        "number_of_recipes": 10,
+        "likes": 2000
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/VCGYS1h/chef4.jpg",
+        "name": "Sarah Lee",
+        "years_of_experience": 8,
+        "number_of_recipes": 40,
+        "likes": 8000
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/q02jVDF/chef5.jpg",
+        "name": "Michael Scott",
+        "years_of_experience": 15,
+        "number_of_recipes": 100,
+        "likes": 15000
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/QrH7XwL/chef6.jpg",
+        "name": "Emily Nguyen",
+        "years_of_experience": 2,
+        "number_of_recipes": 5,
+        "likes": 1000
+    }
+]
